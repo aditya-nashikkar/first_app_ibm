@@ -1,5 +1,5 @@
 ---
 applications:
- - name: second-app
+ - name: first-app
    random-route: true
    memory: 64M
